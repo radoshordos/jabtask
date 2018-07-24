@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    font-size: 1.2em;
+}
+
+nav {
+    background: #eee;
+    border-bottom: 2px solid #ddd;
+    margin-bottom: 1em;
+}
+
+.nav-item {
+    margin: auto .5em;
+}
